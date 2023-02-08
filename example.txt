@@ -3,3 +3,6 @@ To do that, we use this command git add . The period or dot that comes after add
 the repository
 
 If you want to add a specific file, maybe one named about.txt, you use git add about.txt
+
+To help you deepen your understanding of file stages, I will make changes to the file and then push the new 
+version to GitHub
